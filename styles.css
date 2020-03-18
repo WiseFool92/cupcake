@@ -2,11 +2,17 @@ p.intro {
     width: 50%;
     font-style: italic;
 }
-.important {
+.flashy {
     color: red;
+    font-style: italic;
+}
+}
+.best {
+    color: purple;
+    font-weight: bold;
 }
 p.author {
-    width: 75%;
+    width: 25%;
     font-style: italic;
-    font-weight: bold;
+    font-weight: 500;
 }
